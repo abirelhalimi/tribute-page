@@ -4,7 +4,12 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8207c50e-e582-4ce8-9a97-beabca4eeb98" name="Default Changelist" comment="" />
+    <list default="true" id="8207c50e-e582-4ce8-9a97-beabca4eeb98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tribute-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,7 @@
   <component name="ProjectId" id="1ZZrYHhGL2RPU04XgIVthTYTT2X" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -105,10 +111,37 @@
       <workItem from="1585159894126" duration="19431000" />
       <workItem from="1585238085559" duration="14247000" />
       <workItem from="1585257225685" duration="100000" />
+      <workItem from="1585259653876" duration="57000" />
+      <workItem from="1585259803972" duration="791000" />
     </task>
+    <task id="LOCAL-00001" summary="updated file name">
+      <created>1585259694116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585259694116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated file name" />
   </component>
 </project>

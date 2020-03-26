@@ -72,7 +72,7 @@ body {
 .sc-buttons {
     background-color: #A68A5D;
     border: none;
-    width: 140px;
+    width: 20rem;
     color: #FFDCA1;
     text-align: center;
     font-family: Gabriola;
@@ -327,7 +327,7 @@ p:last-child {
 .composition {
     background-color: #A68A5D;
     border: none;
-    width: 140px;
+    width: 20rem;
     color: #FFDCA1;
     text-align: center;
     font-family: Gabriola;
@@ -400,9 +400,8 @@ p:last-child {
 }
 
 #image {
-    width: 32rem;
+    width: 26rem;
     border-radius: 50%;
-    padding: 4em;
 }
 
 .links {
