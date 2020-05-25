@@ -431,3 +431,7 @@ p:last-child {
     color: #f5b17b;
 }
 
+#about-me a:hover {
+    color: #f1f1f1;
+}
+
